@@ -17,3 +17,9 @@ O objetivo deste projeto é praticar a criação de formulários simples utiliza
 1. Clone este repositório para o seu ambiente local.
 2. Abra o arquivo HTML em qualquer navegador web para visualizar e interagir com o formulário.
 3. Experimente preencher o formulário e enviar os dados para ver como funciona.
+
+
+![image](https://github.com/Viniciusulpicio/formulario-simples/assets/145928303/ca9708ad-00e7-44d2-a973-f55c2d4c11a6)
+
+![image](https://github.com/Viniciusulpicio/formulario-simples/assets/145928303/e9d80f86-1193-4292-b185-92fc0c8ee96a)
+
